@@ -1,4 +1,11 @@
-# Calculator_07_VSCExt
+# Made with Pythagora VS Code Extension -- many thanks to them!
+On pre-release version of 2023-09-29. 
+
+It worked very well with only a few minor debugging and change cycles. See proompt.md for the entire starting prompt. 
+
+[www.pythagora.ai](https://www.pythagora.ai/)
+
+# Caculator_07_VSCExt
 
 A simple calculator app designed to provide basic arithmetic operations including addition, subtraction, multiplication, and division in a straightforward and efficient manner. It features a clear interface for inputs and outputs, along with essential functionalities like a clear button and decimal point input, ensuring outputs are formatted to two decimal places. The app prioritizes ease of use and error handling by displaying 'error' for any invalid operations.
 
